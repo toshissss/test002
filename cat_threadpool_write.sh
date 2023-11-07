@@ -1,7 +1,7 @@
 #!/bin/bash
 #调整对应集群的ip/port
 for i in {1..10};
-do
+doqeqeq
 
 		echo "##每十秒执行一次，统计写入reject"
         #curl 168.11.225.87:19200/_cat/thread_pool/write >> file.txt
