@@ -1,0 +1,596 @@
+{
+  ".kibana" : {
+    "aliases" : { }
+  },
+  ".monitoring-es-6-2022.09.20" : {
+    "aliases" : { }
+  },
+  ".monitoring-es-6-2022.09.21" : {
+    "aliases" : { }
+  },
+  ".monitoring-es-6-2022.09.22" : {
+    "aliases" : { }
+  },
+  ".monitoring-es-6-2022.09.23" : {
+    "aliases" : { }
+  },
+  ".monitoring-es-6-2022.09.24" : {
+    "aliases" : { }
+  },
+  ".monitoring-es-6-2022.09.25" : {
+    "aliases" : { }
+  },
+  ".monitoring-es-6-2022.09.26" : {
+    "aliases" : { }
+  },
+  ".monitoring-es-6-2022.09.27" : {
+    "aliases" : { }
+  },
+  ".monitoring-kibana-6-2022.09.20" : {
+    "aliases" : { }
+  },
+  ".monitoring-kibana-6-2022.09.21" : {
+    "aliases" : { }
+  },
+  ".monitoring-kibana-6-2022.09.22" : {
+    "aliases" : { }
+  },
+  ".monitoring-kibana-6-2022.09.23" : {
+    "aliases" : { }
+  },
+  ".monitoring-kibana-6-2022.09.24" : {
+    "aliases" : { }
+  },
+  ".monitoring-kibana-6-2022.09.25" : {
+    "aliases" : { }
+  },
+  ".monitoring-kibana-6-2022.09.26" : {
+    "aliases" : { }
+  },
+  ".monitoring-kibana-6-2022.09.27" : {
+    "aliases" : { }
+  },
+  "bluestone_qqt_comprehensive_search_stock" : {
+    "aliases" : { }
+  },
+  "bluestone_qqt_comprehensive_search_stock_20210226085500" : {
+    "aliases" : {
+      "bluestone_qqt_stock_index_alias" : { }
+    }
+  },
+  "bluestone_qqt_search_ayers_hk_stock" : {
+    "aliases" : { }
+  },
+  "bluestone_qqt_search_ayers_hk_stock_20200914085000" : {
+    "aliases" : { }
+  },
+  "bluestone_qqt_search_ayers_hk_stock_20200925085000" : {
+    "aliases" : { }
+  },
+  "bluestone_qqt_search_ayers_hk_stock_20210226085600" : {
+    "aliases" : {
+      "bluestone_qqt_ayers_hk_stock_index_alias" : { }
+    }
+  },
+  "bluestone_qqt_search_ayers_hs_stock" : {
+    "aliases" : { }
+  },
+  "bluestone_qqt_search_ayers_hs_stock_20210226085600" : {
+    "aliases" : {
+      "bluestone_qqt_ayers_hs_stock_index_alias" : { }
+    }
+  },
+  "bluestone_qqt_search_ayers_sg_stock" : {
+    "aliases" : { }
+  },
+  "bluestone_qqt_search_ayers_sg_stock_20210226082000" : {
+    "aliases" : {
+      "bluestone_qqt_ayers_sg_stock_index_alias" : { }
+    }
+  },
+  "bluestone_qqt_search_ayers_uk_stock" : {
+    "aliases" : {
+      "bluestone_qqt_ayers_uk_stock_index_alias" : { }
+    }
+  },
+  "bluestone_qqt_search_ayers_uk_stock_20201212154756" : {
+    "aliases" : { }
+  },
+  "bluestone_qqt_search_ayers_us_stock" : {
+    "aliases" : { }
+  },
+  "bluestone_qqt_search_ayers_us_stock_20210226195000" : {
+    "aliases" : {
+      "bluestone_qqt_ayers_us_stock_index_alias" : { }
+    }
+  },
+  "bluestone_qqt_search_bank_info" : {
+    "aliases" : {
+      "bluestone_qqt_search_bank_info_index_alias" : { }
+    }
+  },
+  "bluestone_sg_qqt_comprehensive_search_stock" : {
+    "aliases" : { }
+  },
+  "bluestone_sg_qqt_comprehensive_search_stock_20201210192954" : {
+    "aliases" : { }
+  },
+  "bluestone_sg_qqt_comprehensive_search_stock_20201212124912" : {
+    "aliases" : { }
+  },
+  "bluestone_sg_qqt_comprehensive_search_stock_20210226082000" : {
+    "aliases" : {
+      "bluestone_comm_qqt_stock_index_alias" : { }
+    }
+  },
+  "bluestone_uk_qqt_comprehensive_search_stock" : {
+    "aliases" : { }
+  },
+  "bluestone_uk_qqt_comprehensive_search_stock_20201210192933" : {
+    "aliases" : { }
+  },
+  "bluestone_uk_qqt_comprehensive_search_stock_20201212124932" : {
+    "aliases" : { }
+  },
+  "bluestone_uk_qqt_comprehensive_search_stock_20210226145000" : {
+    "aliases" : {
+      "bluestone_comm_qqt_stock_index_alias" : { }
+    }
+  },
+  "bluestone_us_qqt_comprehensive_search_stock" : {
+    "aliases" : { }
+  },
+  "bluestone_us_qqt_comprehensive_search_stock_20210226165000" : {
+    "aliases" : {
+      "bluestone_comm_qqt_stock_index_alias" : { }
+    }
+  },
+  "comprehensive_search_company" : {
+    "aliases" : { }
+  },
+  "comprehensive_search_company_20220927020007" : {
+    "aliases" : {
+      "COMPANY_INDEX_ALIAS" : { }
+    }
+  },
+  "comprehensive_search_content_202206171915" : {
+    "aliases" : {
+      "content_index_alias" : { }
+    }
+  },
+  "comprehensive_search_function" : {
+    "aliases" : { }
+  },
+  "comprehensive_search_function_20220629174152" : {
+    "aliases" : {
+      "function_index_alias" : { }
+    }
+  },
+  "comprehensive_search_invest" : {
+    "aliases" : { }
+  },
+  "comprehensive_search_invest_20220927010035" : {
+    "aliases" : {
+      "invest_index_alias" : { }
+    }
+  },
+  "comprehensive_search_lequan" : {
+    "aliases" : {
+      "lequan_index_alias" : { }
+    }
+  },
+  "comprehensive_search_lequan_202209231952" : {
+    "aliases" : {
+      "lequan_index_alias" : { }
+    }
+  },
+  "comprehensive_search_manager" : {
+    "aliases" : { }
+  },
+  "comprehensive_search_manager_20220927084505" : {
+    "aliases" : {
+      "manager_index_alias" : { }
+    }
+  },
+  "comprehensive_search_news" : {
+    "aliases" : { }
+  },
+  "comprehensive_search_news_202007241512" : {
+    "aliases" : {
+      "news_index_alias" : { }
+    }
+  },
+  "comprehensive_search_stock" : {
+    "aliases" : { }
+  },
+  "comprehensive_search_stock_20220927085004" : {
+    "aliases" : {
+      "stock_index_alias" : { }
+    }
+  },
+  "comprehensive_search_subject" : {
+    "aliases" : {
+      "subject_index_alias" : { }
+    }
+  },
+  "comprehensive_search_zlaccount" : {
+    "aliases" : { }
+  },
+  "comprehensive_search_zlaccount_20220927030506" : {
+    "aliases" : {
+      "zlaccount_index_alias" : { }
+    }
+  },
+  "ht_inst_activity_2022-06-03-22-30-07" : {
+    "aliases" : {
+      "ht_inst_activity_alias" : { }
+    }
+  },
+  "ht_inst_company_2022-05-30-20-02-20" : {
+    "aliases" : {
+      "ht_inst_company_alias" : { }
+    }
+  },
+  "ht_inst_gathering_2022-05-30-20-01-31" : {
+    "aliases" : {
+      "ht_inst_gathering_alias" : { }
+    }
+  },
+  "ht_inst_news_2022-06-03-20-25-03" : {
+    "aliases" : {
+      "ht_inst_news_alias" : { }
+    }
+  },
+  "ht_inst_project" : {
+    "aliases" : { }
+  },
+  "ht_inst_project_2022-06-09-20-28-31" : {
+    "aliases" : {
+      "ht_inst_project_alias" : { }
+    }
+  },
+  "ht_inst_project_publish_info" : {
+    "aliases" : { }
+  },
+  "ht_inst_project_publish_info_2021-04-02-23-00-07" : {
+    "aliases" : { }
+  },
+  "ht_inst_project_publish_info_2022-06-03-23-00-09" : {
+    "aliases" : {
+      "ht_inst_project_publish_info_alias" : { }
+    }
+  },
+  "ht_inst_research_report_2022-06-09-20-28-47" : {
+    "aliases" : {
+      "ht_inst_research_report_alias" : { }
+    }
+  },
+  "ht_inst_research_report_2022-06-10-08-35-13" : {
+    "aliases" : { }
+  },
+  "ht_inst_research_report_english_2022-06-03-20-30-03" : {
+    "aliases" : {
+      "ht_inst_research_report_english_alias" : { }
+    }
+  },
+  "ht_inst_research_report_english_2022-06-10-08-35-18" : {
+    "aliases" : { }
+  },
+  "ht_inst_research_researcher_2022-06-09-20-28-10" : {
+    "aliases" : {
+      "ht_inst_research_researcher_alias" : { }
+    }
+  },
+  "ht_inst_research_subject_2022-06-09-20-28-16" : {
+    "aliases" : {
+      "ht_inst_research_subject_alias" : { }
+    }
+  },
+  "ht_inst_road_show" : {
+    "aliases" : { }
+  },
+  "ht_inst_road_show_2022-06-09-23-30-06" : {
+    "aliases" : {
+      "ht_inst_road_show_alias" : { }
+    }
+  },
+  "ht_inst_search_data_2022-06-08-00-00-10" : {
+    "aliases" : {
+      "ht_inst_search_data_alias" : { }
+    }
+  },
+  "ht_inst_soft_text_2022-06-02-23-35-02" : {
+    "aliases" : {
+      "ht_inst_soft_text_alias" : { }
+    }
+  },
+  "ht_inst_soft_text_2022-06-09-23-35-03" : {
+    "aliases" : {
+      "ht_inst_soft_text_alias" : { }
+    }
+  },
+  "ht_inst_stock_info_2022-06-10-00-05-05" : {
+    "aliases" : {
+      "ht_inst_stock_info_alias" : { }
+    }
+  },
+  "ht_inst_transform_news_alias" : {
+    "aliases" : { }
+  },
+  "ht_inst_video_2022-06-09-20-28-13" : {
+    "aliases" : {
+      "ht_inst_video_alias" : { }
+    }
+  },
+  "inst_xz_event_tracking" : {
+    "aliases" : { }
+  },
+  "kh_halls_index_20220927115956" : {
+    "aliases" : {
+      "kh_halls_index_alias" : { }
+    }
+  },
+  "paasjob_test" : {
+    "aliases" : { }
+  },
+  "tutorial" : {
+    "aliases" : { }
+  },
+  "zlqqt_ayers_search_index_hk" : {
+    "aliases" : { }
+  },
+  "zlqqt_ayers_search_index_hk_20220307085819" : {
+    "aliases" : {
+      "zlqqt_ayers_search_alias_hk" : { }
+    }
+  },
+  "zlqqt_ayers_search_index_hs" : {
+    "aliases" : { }
+  },
+  "zlqqt_ayers_search_index_hs_20220307085000" : {
+    "aliases" : {
+      "zlqqt_ayers_search_alias_hs" : { }
+    }
+  },
+  "zlqqt_ayers_search_index_sg" : {
+    "aliases" : { }
+  },
+  "zlqqt_ayers_search_index_sg_20220307081000" : {
+    "aliases" : {
+      "zlqqt_ayers_search_alias_sg" : { }
+    }
+  },
+  "zlqqt_ayers_search_index_us" : {
+    "aliases" : { }
+  },
+  "zlqqt_ayers_search_index_us_20220307173349" : {
+    "aliases" : {
+      "zlqqt_ayers_search_alias_us" : { }
+    }
+  },
+  "zlqqt_bank_search" : {
+    "aliases" : { }
+  },
+  "zlqqt_bank_search_20210220113056" : {
+    "aliases" : { }
+  },
+  "zlqqt_bank_search_20220707085000" : {
+    "aliases" : {
+      "zlqqt_bank_search_alias" : { }
+    }
+  },
+  "zlqqt_news_event_prd" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_bank" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_bank_20220822085000" : {
+    "aliases" : {
+      "zlqqt_search_alias_bank" : { }
+    }
+  },
+  "zlqqt_search_index_finance_fix_income" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_finance_fix_income_20220822161000" : {
+    "aliases" : {
+      "zlqqt_search_alias_finance_fix_income" : { }
+    }
+  },
+  "zlqqt_search_index_finance_fund" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_finance_fund_20220822160000" : {
+    "aliases" : {
+      "zlqqt_search_alias_finance_fund" : { }
+    }
+  },
+  "zlqqt_search_index_fix" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_fix_20220307161000" : {
+    "aliases" : {
+      "zlqqt_search_alias_fix" : { }
+    }
+  },
+  "zlqqt_search_index_fos" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_fos_20220307160000" : {
+    "aliases" : {
+      "zlqqt_search_alias_fos" : { }
+    }
+  },
+  "zlqqt_search_index_function" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_function_20220822081000" : {
+    "aliases" : {
+      "zlqqt_search_alias_function" : { }
+    }
+  },
+  "zlqqt_search_index_hk" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_hk_20220307085823" : {
+    "aliases" : {
+      "zlqqt_search_alias_hk" : { }
+    }
+  },
+  "zlqqt_search_index_hs" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_hs_20220307085000" : {
+    "aliases" : {
+      "zlqqt_search_alias_hs" : { }
+    }
+  },
+  "zlqqt_search_index_sg" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_sg_20220307082000" : {
+    "aliases" : {
+      "zlqqt_search_alias_sg" : { }
+    }
+  },
+  "zlqqt_search_index_stock_hk" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_stock_hk_20220822085824" : {
+    "aliases" : {
+      "zlqqt_search_alias_stock_hk" : { }
+    }
+  },
+  "zlqqt_search_index_stock_hs" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_stock_hs_20220822085001" : {
+    "aliases" : {
+      "zlqqt_search_alias_stock_hs" : { }
+    }
+  },
+  "zlqqt_search_index_stock_other" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_stock_other_20220822165000" : {
+    "aliases" : {
+      "zlqqt_search_alias_stock_other" : { }
+    }
+  },
+  "zlqqt_search_index_stock_sg" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_stock_sg_20220822082000" : {
+    "aliases" : {
+      "zlqqt_search_alias_stock_sg" : { }
+    }
+  },
+  "zlqqt_search_index_stock_trade_hk" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_stock_trade_hk_20220822085819" : {
+    "aliases" : {
+      "zlqqt_search_alias_stock_trade_hk" : { }
+    }
+  },
+  "zlqqt_search_index_stock_trade_hs" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_stock_trade_hs_20220822085000" : {
+    "aliases" : {
+      "zlqqt_search_alias_stock_trade_hs" : { }
+    }
+  },
+  "zlqqt_search_index_stock_trade_sg" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_stock_trade_sg_20220822081000" : {
+    "aliases" : {
+      "zlqqt_search_alias_stock_trade_sg" : { }
+    }
+  },
+  "zlqqt_search_index_stock_trade_uk" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_stock_trade_uk_20220513155000" : {
+    "aliases" : {
+      "zlqqt_search_alias_stock_trade_uk" : { }
+    }
+  },
+  "zlqqt_search_index_stock_trade_us" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_stock_trade_us_20220821194006" : {
+    "aliases" : {
+      "zlqqt_search_alias_stock_trade_us" : { }
+    }
+  },
+  "zlqqt_search_index_stock_uk" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_stock_uk_20220822155003" : {
+    "aliases" : {
+      "zlqqt_search_alias_stock_uk" : { }
+    }
+  },
+  "zlqqt_search_index_stock_us" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_stock_us_20220822165006" : {
+    "aliases" : {
+      "zlqqt_search_alias_stock_us" : { }
+    }
+  },
+  "zlqqt_search_index_uk" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_uk_20220307155002" : {
+    "aliases" : {
+      "zlqqt_search_alias_uk" : { }
+    }
+  },
+  "zlqqt_search_index_us" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_us_20220307173217" : {
+    "aliases" : {
+      "zlqqt_search_alias_us" : { }
+    }
+  },
+  "zlqqt_search_index_verify_company" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_verify_company_20220822081010" : {
+    "aliases" : {
+      "zlqqt_search_alias_verify_company" : { }
+    }
+  },
+  "zlqqt_search_index_wp" : {
+    "aliases" : { }
+  },
+  "zlqqt_search_index_wp_20220307165000" : {
+    "aliases" : {
+      "zlqqt_search_alias_wp" : { }
+    }
+  },
+  "zlqqt_warrant_search" : {
+    "aliases" : { }
+  },
+  "zlqqt_warrant_search_20210423165335" : {
+    "aliases" : { }
+  },
+  "zlqqt_warrant_search_20210423165957" : {
+    "aliases" : { }
+  },
+  "zlqqt_warrant_search_20220822085006" : {
+    "aliases" : {
+      "zlqqt_warrant_search_alias" : { }
+    }
+  },
+  "zlqqt_zlqqt_bank_info_2021-01-20" : {
+    "aliases" : {
+      "zlqqt_zlqqt_bank_info" : { }
+    }
+  }
+}
