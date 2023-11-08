@@ -1,5 +1,3 @@
-#!/bin/bash
-#调整对应集群的ip/port
 for i in {1..10};
 doqeqeq
 
